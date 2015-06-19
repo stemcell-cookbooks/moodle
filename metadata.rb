@@ -1,0 +1,11 @@
+name             'moodle'
+maintainer       'Hikaru Mathieson'
+maintainer_email 'hikaru.mathieson@stemcell.com'
+license          'All rights reserved'
+description      'Installs/Configures moodle'
+long_description 'Installs/Configures moodle'
+version          '1.0.0'
+
+depends 'apt'
+depends 'git'
+depends 'nginx'
